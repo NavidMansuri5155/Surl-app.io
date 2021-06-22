@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# How to making shorten URL with react.js?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is only Front-and, not a Back-and 😊.
 
-## Available Scripts
+<img src="https://navid5155.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1624377682278%2FPgyja97mmd.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="dont copy" />
 
-In the project directory, you can run:
+## Introducing SURL 🎊
 
-### `npm start`
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624377987074/y-GyJP4tL.png?auto=compress,format&format=webp" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<hr />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+# What is SURL? 🔗
+It is a web-based URL shortening service where user can generate a shorter form of their long URL.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Why I created SURL? ✨
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+My only purpose for making this was so that I can make the frontend very well and I can practice as much as possible. I wanted to show my ability by making this page. I am very happy to make this and will continue to create new pages. so that i can get more knowledge about the Front-end.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Thank's 😊.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1624378402236/F354GUkU6.png?auto=compress,format&format=webp" />
 
-### `npm run eject`
+<hr />
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Current Features 💡
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Most important feature 😉 `dark-mode` and `light-mode`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> would you like to see it once ? [Live Demo](https://surl-app.herokuapp.com/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<hr />
 
-## Learn More
+# Project Code 👨‍💻
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ <ul>
+    <li> SURL source code: https://navid5155.hashnode.dev/how-to-making-shorten-url-with-reactjs </li>
+  <li> Live Demo : https://github.com/NavidMansuri5155/Surl-app.io </li>
+ </ul>
+ 
+ <hr />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Tech Stack 💻
 
-### Code Splitting
+<ul>
+     <li>  MDB </li>
+     <li>  Firebase </li >
+     <li> more css3 </li >
+ </ul>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ Live Demo 👇
 
-### Analyzing the Bundle Size
+https://surl-app.herokuapp.com/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> **Node:** I want to tell you that if this URL does not work then this hosting is not working. Sorry 😊. 
 
-### Making a Progressive Web App
+<hr />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Thank you for reading 🙏
 
-### Advanced Configuration
+If you enjoyed this article or found it helpful, give it a thumbs-up 👍
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Feel free to connect 👋
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Instagram](https://www.instagram.com/nabizada_navid_mansuri/), [Facebook](https://www.facebook.com/navid.mansuri.5/), [Twitter](https://twitter.com/NAVIDMANSURI7)
